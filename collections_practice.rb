@@ -21,3 +21,4 @@ end
 
 def kesha_maker(array)
   array.collect do |element|
+    element
